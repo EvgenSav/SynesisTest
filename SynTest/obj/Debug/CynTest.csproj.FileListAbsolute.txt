@@ -1,0 +1,6 @@
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\bin\Debug\CynTest.exe.config
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\bin\Debug\CynTest.exe
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\bin\Debug\CynTest.pdb
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\obj\Debug\CynTest.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\obj\Debug\CynTest.exe
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\obj\Debug\CynTest.pdb

@@ -1,0 +1,13 @@
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\obj\Debug\SynTest.csproj.CoreCompileInputs.cache
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\bin\Debug\SynTest.exe.config
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\bin\Debug\SynTest.exe
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\bin\Debug\SynTest.pdb
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\obj\Debug\SynTest.exe
+C:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\CynTest\CynTest\obj\Debug\SynTest.pdb
+c:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\SynTest\SynTest\bin\Debug\SynTest.exe.config
+c:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\SynTest\SynTest\bin\Debug\SynTest.exe
+c:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\SynTest\SynTest\bin\Debug\SynTest.pdb
+c:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\SynTest\SynTest\obj\Debug\SynTest.csprojAssemblyReference.cache
+c:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\SynTest\SynTest\obj\Debug\SynTest.csproj.CoreCompileInputs.cache
+c:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\SynTest\SynTest\obj\Debug\SynTest.exe
+c:\Users\Evgen\Dropbox\VisualStudioProjects\Projects\SynTest\SynTest\obj\Debug\SynTest.pdb

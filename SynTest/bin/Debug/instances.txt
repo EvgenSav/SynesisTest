@@ -1,0 +1,21 @@
+Vehicle: Bicycle
+Properties:
+MaxSpeed: 35
+Name: Instance of Bicycle
+
+Vehicle: Bike
+Properties:
+MaxSpeed: 120
+Name: Instance of Bike
+
+Vehicle: Car
+Properties:
+RearSeatsCount: 3
+MaxSpeed: 180
+Name: Instance of Car
+
+Vehicle: Truck
+Properties:
+MaxSpeed: 120
+Name: Instance of Truck
+
